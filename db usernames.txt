@@ -1,0 +1,18 @@
+DB Name: asthacommerce
+Username: test-admin
+Password: test123
+
+users: [
+    {
+      name: 'admin',
+      email: 'admin@gmail.com',
+      password: bcrypt.hashSync('admin123'),
+      isAdmin: true,
+    },
+    {
+      name: 'user1',
+      email: 'user1@gmail.com',
+      password: bcrypt.hashSync('user1234'),
+      isAdmin: false,
+    }
+]
