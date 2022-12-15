@@ -9,7 +9,7 @@ import 'react-toastify/dist/ReactToastify.css';
 import { ShoppingBagIcon, UserIcon } from '@heroicons/react/24/outline';
 import DropdownLink from './DropdownLink';
 import Cookies from 'js-cookie';
-import Footer from './footer';
+import Footer from './Footer.js';
 
 export default function Layout({ title, children }) {
   const { status, data: session } = useSession();

@@ -33,7 +33,7 @@ function Slider() {
           <Image
             src="/images/slider-images/s-image1.png"
             alt="Master Card Icon"
-            width={1400}
+            width={1600}
             height={412}
           />
         </SwiperSlide>
@@ -41,7 +41,7 @@ function Slider() {
           <Image
             src="/images/slider-images/s-image2.png"
             alt="Master Card Icon"
-            width={1400}
+            width={1600}
             height={412}
           />
         </SwiperSlide>
@@ -49,7 +49,7 @@ function Slider() {
           <Image
             src="/images/slider-images/s-image3.png"
             alt="Master Card Icon"
-            width={1400}
+            width={1600}
             height={412}
           />
         </SwiperSlide>
@@ -57,7 +57,7 @@ function Slider() {
           <Image
             src="/images/slider-images/s-image4.png"
             alt="Master Card Icon"
-            width={1400}
+            width={1600}
             height={412}
           />
         </SwiperSlide>
